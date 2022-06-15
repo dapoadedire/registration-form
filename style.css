@@ -12,6 +12,7 @@ main {
     background: url(images/bg-intro-desktop.png) repeat center center fixed;
     background-color: hsl(0, 100%, 74%);
     padding: 100px;
+    min-height: 100vh;
 
 }
 
