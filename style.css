@@ -151,6 +151,7 @@ form p a {
     main {
         background: url(images/bg-intro-mobile.png) repeat center center fixed;
         background-color: hsl(0, 100%, 74%);
+        min-height: 100vh;
     }
     .reg-one, .reg-two{
         width: 90%;
