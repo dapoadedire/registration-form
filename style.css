@@ -83,7 +83,7 @@ input#submit {
     margin-bottom: 12px;
     cursor: pointer;
     border: none;
-    
+    box-shadow: 0px .2em rgb(93, 154, 126);
 
 }
 
@@ -97,7 +97,7 @@ input#submit {
     border-radius: 10px;
     margin-bottom: 20px;
     text-align: center;
-    box-shadow: 0px 0.4em rgb(219, 112, 112);
+    box-shadow: 0px 0.5em rgb(219, 112, 112);
 }
 
 .free span {
